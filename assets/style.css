@@ -1,0 +1,70 @@
+body {
+    background-color: #FFFAFA;
+}
+#center {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #logo {
+    margin-left: 44%;
+  }
+
+
+#subtitle {
+    color: rgb(0, 130, 125);
+    text-align: center;
+    border-top: 1px solid orange;
+    background-color: #F5F5DC;
+}
+#strong {
+    font-variant: small-caps;
+    font-size: 150%;
+}
+
+#title {
+    text-align: center;
+    font-family: Oswald;
+}
+
+#title-second {
+    text-align: center;
+    font-family: Oswald;}
+
+  #focaccia {
+    border-radius: 10px 10px 10px 10px;
+  }
+  #font-image {
+    text-align: center;
+    color: gray;
+  }
+
+  #feature {
+   border-left: 1px solid orange;
+  }
+  #staccato {
+    margin-left: 3%;
+  }
+
+  #Red {
+    color: red;
+    margin-bottom: auto;
+  }
+  
+
+  #link {
+    color: skyblue;
+  }
+
+#collegamento  {
+    color: skyblue;
+}
+
+p {
+    font-family: Kanit;
+}
+
+li {
+    font-family: Kanit;
+}
